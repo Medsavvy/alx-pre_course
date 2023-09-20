@@ -1,1 +1,1 @@
-My first readme usuing git UI
+My first readme uSing git UI
